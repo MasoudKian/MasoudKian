@@ -30,7 +30,7 @@
 
 ### 🚀 Featured Projects
 
-🔹 [**Safir Alborz ERP**](https://github.com/MasoudKian/safir-alborz)  
+🔹 [**Safir Alborz ERP**](https://github.com/MasoudKian/Safir.Alborz)  
 A modular ERP system based on Clean Architecture for food production and distribution.
 
 🔹 [**Trading Journal (Private)**](https://github.com/MasoudKian/Trading_Journal)  
@@ -78,7 +78,7 @@ A personal trading & finance logging tool, built with .NET Core & SQL Server.
 
 ### 🚀 پروژه‌های مهم
 
-🔹 [**ERP سفیر البرز**](https://github.com/MasoudKian/safir-alborz)  
+🔹 [**ERP سفیر البرز**](https://github.com/MasoudKian/Safir.Alborz)  
 سیستم ERP ماژولار مبتنی بر Clean Architecture برای مدیریت تولید و توزیع صنایع غذایی
 
 🔹 [**ژورنال معاملاتی (خصوصی)**](https://github.com/MasoudKian/Trading_Journal)  
