@@ -10,7 +10,7 @@
 **Senior .NET Developer** specializing in **Microservices** and **Clean Architecture**. Passionate about building scalable, maintainable backend systems with a focus on reliability and performance.
 
 ### 💼 Experience & Expertise  
-- 5+ years of professional experience designing and implementing solutions using **C#**, **ASP.NET Core**, **Entity Framework**, **MongoDB**, **Docker**, **Redis**  
+- 5+ years of professional experience designing and implementing solutions using **C#**, **ASP.NET Core**, **Entity Framework**, **SqlServer**, **Docker**, **Redis**  
 - Strong background in **microservices architecture**, **RESTful APIs**, **CI/CD pipelines**, and **containerization**
 
 ### 🚀 Current Projects  
