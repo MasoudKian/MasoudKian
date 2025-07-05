@@ -7,40 +7,91 @@
 
 ## 👋 Hi, I’m Masoud Kiannejad
 
-**Senior .NET Developer** specializing in **Microservices** and **Clean Architecture**. Passionate about building scalable, maintainable backend systems with a focus on reliability and performance.
+🎯 **Senior .NET Developer** with a strong focus on **Microservices**, **Clean Architecture**, and building scalable backend systems.
 
-### 💼 Experience & Expertise  
-- 5+ years of professional experience designing and implementing solutions using **C#**, **ASP.NET Core**, **Entity Framework**, **SqlServer**, **Docker**, **Redis**  
-- Strong background in **microservices architecture**, **RESTful APIs**, **CI/CD pipelines**, and **containerization**
+---
 
-### 🚀 Current Projects  
-- [Safir Alborz ERP](https://github.com/MasoudKian/safir-alborz): A modular ERP system based on Clean Architecture, designed for food production and distribution management  
-- [Trading Journal (Private Repo)](https://github.com/MasoudKian/Trading_Journal): A personal finance and trading log tool built with .NET Core and Sql Server – currently used privately for portfolio analysis
+### 💼 Experience & Skills
 
-### 🌱 Learning & Interests  
-Currently deepening knowledge in **Kubernetes**, **Azure DevOps**, **Event-driven architectures**, and **Cloud-native solutions**
+**Languages & Frameworks**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-6DB33F?style=flat&logo=dotnet&logoColor=white)
 
-### 📫 Connect with me  
-[LinkedIn](https://www.linkedin.com/in/masoud-kiannejad/) • masoudkiannejad@gmail.com
+**Tools & Technologies**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=flat)
+
+---
+
+### 🚀 Featured Projects
+
+🔹 [**Safir Alborz ERP**](https://github.com/MasoudKian/safir-alborz)  
+A modular ERP system based on Clean Architecture for food production and distribution.
+
+🔹 [**Trading Journal (Private)**](https://github.com/MasoudKian/Trading_Journal)  
+A personal trading & finance logging tool, built with .NET Core & SQL Server.
+
+---
+
+### 🌱 Currently Learning
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
+![Event Driven](https://img.shields.io/badge/Event_Driven_Architecture-orange?style=flat)
+
+---
+
+### 📫 Contact Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masoud-kiannejad/)  
+✉️ masoudkiannejad@gmail.com
 
 ---
 
 <a name="persian"></a>
 ## 👋 سلام، من مسعود کیان‌نژاد هستم
 
-**توسعه‌دهنده ارشد .NET** با تخصص در **معماری میکروسرویس** و **معماری تمیز (Clean Architecture)**  
-علاقه‌مند به ساخت سیستم‌های پشتیبان (Backend) **مقیاس‌پذیر**، **قابل نگهداری** و **قابل اعتماد** با تمرکز بر عملکرد بالا.
+🎯 **توسعه‌دهنده ارشد .NET** با تمرکز بر **معماری میکروسرویس**، **معماری تمیز** و ساخت سیستم‌های پشتیبان مقیاس‌پذیر و قابل نگهداری.
 
-### 💼 تجربه و تخصص  
-- بیش از ۵ سال تجربه حرفه‌ای در طراحی و پیاده‌سازی راهکارها با استفاده از **C#**، **ASP.NET Core**، **Entity Framework**، **MongoDB**، **Docker** و **Redis**  
-- تسلط کامل به **معماری میکروسرویس**، **APIهای RESTful**، **پیاده‌سازی CI/CD** و **کانتینرسازی**
+---
 
-### 🚀 پروژه‌های فعلی  
-- [ERP سفیر البرز](https://github.com/MasoudKian/safir-alborz): سیستم ERP ماژولار بر پایه Clean Architecture، برای مدیریت تولید و توزیع مواد غذایی  
-- [ژورنال معاملاتی (مخزن خصوصی)](https://github.com/MasoudKian/Trading_Journal): ابزار شخصی ثبت و تحلیل معاملات با .NET Core و SQL Server — فعلاً به‌صورت خصوصی استفاده می‌شود
+### 💼 تجربه و مهارت‌ها
 
-### 🌱 در حال یادگیری و علاقه‌مند به  
-مطالعه عمیق‌تر در حوزه‌های **Kubernetes**، **Azure DevOps**، **معماری‌های رویدادمحور (Event-Driven)** و **راهکارهای Cloud-Native**
+**زبان‌ها و فریم‌ورک‌ها**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-6DB33F?style=flat&logo=dotnet&logoColor=white)
+
+**ابزارها و تکنولوژی‌ها**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=flat)
+
+---
+
+### 🚀 پروژه‌های مهم
+
+🔹 [**ERP سفیر البرز**](https://github.com/MasoudKian/safir-alborz)  
+سیستم ERP ماژولار مبتنی بر Clean Architecture برای مدیریت تولید و توزیع صنایع غذایی
+
+🔹 [**ژورنال معاملاتی (خصوصی)**](https://github.com/MasoudKian/Trading_Journal)  
+ابزار ثبت و تحلیل معاملات ساخته شده با .NET Core و SQL Server
+
+---
+
+### 🌱 در حال یادگیری
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
+![Event Driven](https://img.shields.io/badge/معماری_رویدادمحور-orange?style=flat)
+
+---
 
 ### 📫 راه‌های ارتباطی  
-[لینکدین](https://www.linkedin.com/in/masoud-kiannejad/) • masoudkiannejad@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masoud-kiannejad/)  
+✉️ masoudkiannejad@gmail.com
