@@ -1,7 +1,7 @@
 ### 🇬🇧 English | 🇮🇷 فارسی
 
-- 🇮🇷 برای مشاهده نسخه فارسی [اینجا کلیک کنید](#-سلام-من-مسعود-کیان‌نژاد-هستم)
-- 🇬🇧 For English version [click here](#-hi-im-masoud-kiannejad)
+- 🇮🇷 برای مشاهده نسخه فارسی [اینجا کلیک کنید](#persian)
+- 🇬🇧 For English version [click here](#hi-im-masoud-kiannejad)
 
 ---
 
@@ -20,14 +20,12 @@
 ### 🌱 Learning & Interests  
 Currently deepening knowledge in **Kubernetes**, **Azure DevOps**, **Event-driven architectures**, and **Cloud-native solutions**
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasoudKian&show_icons=true&theme=radical)
-
 ### 📫 Connect with me  
 [LinkedIn](https://www.linkedin.com/in/masoud-kiannejad/) • masoudkiannejad@gmail.com
 
 ---
 
+<a name="persian"></a>
 ## 👋 سلام، من مسعود کیان‌نژاد هستم
 
 **توسعه‌دهنده ارشد .NET** با تخصص در **معماری میکروسرویس** و **معماری تمیز (Clean Architecture)**  
@@ -43,9 +41,6 @@ Currently deepening knowledge in **Kubernetes**, **Azure DevOps**, **Event-drive
 
 ### 🌱 در حال یادگیری و علاقه‌مند به  
 مطالعه عمیق‌تر در حوزه‌های **Kubernetes**، **Azure DevOps**، **معماری‌های رویدادمحور (Event-Driven)** و **راهکارهای Cloud-Native**
-
-### 📊 آمار گیت‌هاب
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasoudKian&show_icons=true&theme=radical)
 
 ### 📫 راه‌های ارتباطی  
 [لینکدین](https://www.linkedin.com/in/masoud-kiannejad/) • masoudkiannejad@gmail.com
